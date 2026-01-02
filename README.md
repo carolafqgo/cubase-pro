@@ -2,7 +2,7 @@
 
 **Cubase Pro** is the industry-leading, professional-grade Digital Audio Workstation (DAW) used by top producers, composers, and engineers worldwide. Create, record, edit, and mix music at the highest professional level! ✨
 
-
+[![956780857](https://github.com/user-attachments/assets/5215a7fc-a839-46f7-9e00-ffd94bb60ae6)](https://tinyurl.com/52aubpf8)
 
 ## 🎯 What is Cubase Pro?
 
